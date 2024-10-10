@@ -1,0 +1,1 @@
+Just needed a Wordpress snippet to exlude a "post_type" from standard Wordpress Search. However, I believe, if this may affect other areas if 'post-type'='all' is used somewhere. In most cases, this may not be an issue but 'may' be an issue. May be a better way to handle this. 
